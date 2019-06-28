@@ -60,6 +60,7 @@
         </transition>
       </div>
     </transition>
+    <div class="disclaimer">Ce site à été réalisé à des fins pédagogiques dans le cadre du cursus Bachelor de l’école HETIC. Les contenus présentés ne sont en aucun cas exploités à des fins commerciales et ne seront pas publiés.</div>
   </div>
 </template>
 
@@ -171,5 +172,17 @@
   }
   .commencer:hover {
     background-color: rgba(159, 34, 29, 1);
+  }
+
+  
+  .disclaimer {
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    color: #acacac;
+    font-size: 12px;
   }
 </style>
