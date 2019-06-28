@@ -161,7 +161,7 @@
         <div class="nihilisme__details--wrapper">
           <div class="nihilisme__details details">
             Le nihilisme soutient que la vie n’a pas de sens, rejette toutes
-            valeurs, croyance ou réalité substantielle.
+            valeurs, croyances ou réalités substantielles.
           </div>
           <div class="nihilisme__details details">
             C'est un rejet total de la vie.

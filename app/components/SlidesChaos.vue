@@ -56,7 +56,7 @@ E<template>
             <div>
               Seule la désolation de la solitude et l'abscence totale de tout ce
               qui rendrait le narrateur vivant pourrait prédisposer un homme à
-              désirer l'excitation et l'acceptation social non obstant des
+              désirer l'excitation et l'acceptation sociale nonobstant des
               conséquences à long terme.
             </div>
             <div>

@@ -5,7 +5,9 @@
         <h1 v-if="show == 0 || show == 1">L'Homme</h1>
       </transition>
       <transition name="fade">
-        <div class="scroll" v-if="show == 0">scroll vers le bas <img src="../assets/img/down.gif"></div>
+        <div class="scroll" v-if="show == 0">
+          scroll vers le bas <img src="../assets/img/down.gif" />
+        </div>
       </transition>
       <transition name="fade">
         <h2 v-if="show == 1">Un homme perdu dans une société monotone</h2>
@@ -264,7 +266,7 @@
             </div>
             <div class="tv__second--detailsWrapper">
               <div class="tv__second--details details">
-                Etre violent est quelque chose qu'ils associent au fait d'etre
+                Être violent est quelque chose qu'ils associent au fait d'être
                 un homme, un vrai. La masculinité, à travers les agressions,
                 leur donne une manière de contre-balancer avec leurs métiers non
                 virils et leur consumérisme.
@@ -316,8 +318,7 @@
           v-on:click="mute"
         ></button>
       </div>
-      <button class="play-pause" v-if="show == 9" v-on:click="play">
-      </button>
+      <button class="play-pause" v-if="show == 9" v-on:click="play"></button>
     </div>
   </div>
 </template>
